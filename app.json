@@ -1,0 +1,1 @@
+{"expo":{"name":"MAPPIN","slug":"leaflet-app1","scheme":"mappin","version":"0.1.0","orientation":"portrait","userInterfaceStyle":"light","plugins":["expo-router"],"ios":{"supportsTablet":true,"bundleIdentifier":"jp.mappin.app"},"android":{"package":"jp.mappin.app","adaptiveIcon":{"backgroundColor":"#1f5f45"}}}}

@@ -1,6 +1,6 @@
-# MAPPIN App
+# SPOTPALETTE App
 
-Leaflet地図をアプリ内WebViewで動かす、iOS・Android共通の地域検索MVPです。10業種を共通データモデルで展開できます。
+Leaflet地図をアプリ内WebViewで動かす、iOS・Android共通の地域検索MVPです。10業種を共通データモデルで展開できます。正式サイトは `https://spotpalette.jp`、アプリサイトは `https://spotpalette.app` です。
 
 ## 画面
 
